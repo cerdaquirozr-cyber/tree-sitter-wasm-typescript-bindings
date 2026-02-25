@@ -1,0 +1,23 @@
+{
+  "name": "@cerdaqu/tree-sitter-wasm-typescript-declarations",
+  "version": "0.1.0",
+  "description": "TypeScript declarations (.d.ts) for Tree-sitter WebAssembly module compiled with Emscripten",
+  "main": "index.d.ts",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerdaqu/tree-sitter-wasm-typescript-declarations.git"
+  },
+  "keywords": [
+    "tree-sitter",
+    "wasm",
+    "emscripten",
+    "typescript",
+    "declarations"
+  ],
+  "author": "RAMON CERDA QUIROZ",
+  "files": [
+    "index.d.ts"
+  ]
+}
